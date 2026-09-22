@@ -67,7 +67,7 @@ Sahadan toplanan bildirimlerin durumu, fotoğraflı inceleme penceresi ve yapıl
 | Hata Kayıtları Tablosu | Hata Detayı (Bekleyen) | Çözüm Detayı (Onaylanan) |
 |:---:|:---:|:---:|
 | <img src="./screenshots/3-Reports 1.3.png" width="100%" /> | <img src="./screenshots/3-Reports 1.4.png" width="100%" /> | <img src="./screenshots/3-Reports 1.5.png" width="100%" /> |
-| Dinamik durum güncelleme tablosu[cite: 7] | Fotoğraflı arıza bildirimi | Müdahale ve çözüm kaydı |
+| Dinamik durum güncelleme tablosu     | Fotoğraflı arıza bildirimi | Müdahale ve çözüm kaydı |
 
 ---
 
@@ -102,7 +102,7 @@ Yalnızca admin rolündeki kullanıcıların erişebildiği kullanıcı ekleme, 
 | Mobil Arıza Bildirimi | Mobil Arıza Takip Listesi | Mobil Filtreleme |
 |:---:|:---:|:---:|
 | <img src="./screenshots/9-Mobil Arıza.jpeg" width="75%" /> | <img src="./screenshots/10-Mobil Arıza.jpeg" width="75%" /> | <img src="./screenshots/11-Mobil Arıza.jpeg" width="75%" /> |
-| Barkod okutma ve kamera entegrasyonu[cite: 17] | Tek tıkla durum güncelleme[cite: 18] | Çok kriterli arama ve sıralama |
+| Barkod okutma ve kamera entegrasyonu | Tek tıkla durum güncelleme | Çok kriterli arama ve sıralama |
 
 ---
 
